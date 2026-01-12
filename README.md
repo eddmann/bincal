@@ -2,6 +2,8 @@
 
 I keep forgetting to put the bins out and can never remember which week is which bin. My council doesn't offer calendar subscriptions or an API, so I built this for myself and friends from neighbouring councils in the same situation.
 
+<img src="demo.png" alt="BinCal demo" width="400">
+
 ## Supported councils
 
 - Tunbridge Wells - uses UPRN
